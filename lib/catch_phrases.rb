@@ -20,4 +20,11 @@ def all_phrases
 end
 
 
+
+mario 
+
+toadstool
+
+link
+
 all_phrases
